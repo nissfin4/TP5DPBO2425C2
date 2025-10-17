@@ -18,3 +18,10 @@ Fitur Delete digunakan untuk menghapus data produk yang dipilih dari database. S
 
 Dokumentasi:
 
+![Screenshot1901](screenshots/Screenshot1901.png)
+![Screenshot1902](screenshots/Screenshot1902.png)
+![Screenshot1903](screenshots/Screenshot1903.png)
+![Screenshot1904](screenshots/Screenshot1904.png)
+![Screenshot1905](screenshots/Screenshot1905.png)
+![Screenshot1906](screenshots/Screenshot1906.png)
+![Screenshot1907](screenshots/Screenshot1907.png)
