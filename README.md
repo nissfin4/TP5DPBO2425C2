@@ -17,11 +17,10 @@ Untuk mengubah data, pengguna cukup memilih salah satu baris pada tabel. Setelah
 Fitur Delete digunakan untuk menghapus data produk yang dipilih dari database. Sebelum proses penghapusan dilakukan, program akan menampilkan jendela konfirmasi menggunakan JOptionPane agar pengguna tidak salah menghapus data. Jika pengguna menekan tombol “Yes”, maka data akan dihapus dari database dan tabel di layar langsung diperbarui. Selain itu, terdapat tombol Cancel yang berfungsi untuk mengosongkan seluruh form sehingga pengguna dapat menambahkan data baru tanpa harus menutup program terlebih dahulu.
 
 Dokumentasi:
-
-![Screenshot1901](screenshots/Screenshot1901.png)
-![Screenshot1902](screenshots/Screenshot1902.png)
-![Screenshot1903](screenshots/Screenshot1903.png)
-![Screenshot1904](screenshots/Screenshot1904.png)
-![Screenshot1905](screenshots/Screenshot1905.png)
-![Screenshot1906](screenshots/Screenshot1906.png)
-![Screenshot1907](screenshots/Screenshot1907.png)
+![Screenshot1901](dokumentasi/Screenshot1901.png)
+![Screenshot1902](dokumentasi/Screenshot1902.png)
+![Screenshot1903](dokumentasi/Screenshot1903.png)
+![Screenshot1904](dokumentasi/Screenshot1904.png)
+![Screenshot1905](dokumentasi/Screenshot1905.png)
+![Screenshot1906](dokumentasi/Screenshot1906.png)
+![Screenshot1907](dokumentasi/Screenshot1907.png)
